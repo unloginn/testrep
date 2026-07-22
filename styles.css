@@ -15,8 +15,8 @@ body.dark {
   --text: #f6f0e8;
   --muted: #b9afa3;
   --card: #20242d;
-  --accent: #ff9f5a;
-  --accent-dark: #ffbf88;
+  --accent: #2563eb;
+  --accent-dark: #1d4ed8;
   --border: #333946;
 }
 
@@ -43,7 +43,7 @@ body {
 .hero {
   padding: 48px;
   border: 1px solid var(--border);
-  border-radius: 28px;
+  border-radius: 16px;
   background: var(--card);
   box-shadow: 0 24px 70px rgba(0, 0, 0, 0.12);
 }
