@@ -1,6 +1,6 @@
 # Git Practice Site
 
-Простой HTML/CSS/JS сайт для тренировки Git и GitHub.
+Простой HTML/CSS/JS сайт для тренировки Git и GitHub и жээфлбваэжфыдь аджлывтп.
 
 ## Как открыть
 
