@@ -43,7 +43,7 @@ body {
 .hero {
   padding: 48px;
   border: 1px solid var(--border);
-  border-radius: 28px;
+  border-radius: 16px;
   background: var(--card);
   box-shadow: 0 24px 70px rgba(0, 0, 0, 0.12);
 }
