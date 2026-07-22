@@ -13,7 +13,7 @@ themeButton.addEventListener('click', () => {
 });
 
 counterButton.addEventListener('click', () => {
-  clicks += 1;
+  clicks += 10;
   counter.textContent = clicks;
 });
 
